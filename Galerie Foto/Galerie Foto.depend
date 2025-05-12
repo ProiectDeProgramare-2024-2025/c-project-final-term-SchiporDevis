@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1747085047 source:c:\users\00dev\onedrive\desktop\proiect programare\galerie foto\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+
